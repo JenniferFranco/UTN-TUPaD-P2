@@ -16,3 +16,4 @@ nbdist/
 # OS
 .DS_Store
 Thumbs.db
+/tp6_colecciones/nbproject/private/
